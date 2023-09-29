@@ -1,2 +1,2 @@
 # github test
-This is a atest project.
+This is a test project.
