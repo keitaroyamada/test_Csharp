@@ -6,5 +6,12 @@ namespace github_test
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var text = "hello world!";
+
+            label1.Text = text;
+        }
     }
 }
